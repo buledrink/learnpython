@@ -1,4 +1,4 @@
 # learnpython
-learning note 123
+learning note 124
 
 learn to use github
